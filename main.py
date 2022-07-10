@@ -97,7 +97,7 @@ def evaluate_graph(ls: List[Good], max_x: float = 5, x_step: float = 0.01) -> No
     plt.show()
 
 
-# Drawing Fig 5.
+# Drawing Fig 6.
 # plt.figure()
 # plt.xlabel("X")
 # plt.ylabel("T")
