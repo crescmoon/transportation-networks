@@ -112,7 +112,7 @@ def evaluate_graph(ls: List[Good], max_x: float = 5, x_step: float = 0.01) -> No
 # wye[2].draw(color="green")
 # plt.show()
 
-# Drawing Fig #.
+# Drawing Fig 10.
 # plt.figure()
 # plt.xlabel("X")
 # plt.ylabel("T")
